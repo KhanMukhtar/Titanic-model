@@ -1,2 +1,2 @@
 # Titanic-model
-People who survived the ship shrinkage
+Prediction on People who survived the ship shrinkage.
